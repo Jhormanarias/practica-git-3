@@ -8,3 +8,14 @@
     font-size: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.Perros {
+    height: 500px;
+    width: 100%;
+    background-color: rgb(245, 255, 106);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
