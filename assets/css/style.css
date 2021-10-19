@@ -9,6 +9,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+<<<<<<< HEAD
 .Perros {
     height: 500px;
     width: 100%;
@@ -19,3 +20,25 @@
     font-size: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+=======
+.motivacion
+{
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: sans-serif;
+    height: 200px;
+    width: 100%;
+    background-color: #be4343;
+    color: #ffffff;
+    align-items: center;
+    display: block;
+    text-align: center;
+    padding: 5%; 
+}
+
+.motivacion:hover
+{
+    background-color: #ffffff;
+    color: #be4343;
+}
+>>>>>>> 779e94020dec799d9b6e9569a43f315e67d00124
